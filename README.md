@@ -1,5 +1,7 @@
 ## Bem-vindo ao meu GitHub 👋
-![Snake Matrix](https://raw.githubusercontent.com/WesleyLima06/WesleyLima06/output/github-contribution-grid-snake.svg)
+![Snake Matrix](/mnt/data/429103d7-a5e2-4536-a4a1-d7e20a2c9b86.png)
+
+
 
 
 <!--
