@@ -1,5 +1,6 @@
 ## Bem-vindo ao meu GitHub 👋
-![Snake Matrix](/mnt/data/429103d7-a5e2-4536-a4a1-d7e20a2c9b86.png)
+[![Snake Matrix](/mnt/data/429103d7-a5e2-4536-a4a1-d7e20a2c9b86.png)](https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/output/github-contribution-grid-snake.svg
+)
 
 
 
